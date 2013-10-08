@@ -1,0 +1,9 @@
+Revision history for Perl extension Jundy.
+
+0.01  Wed Apr  9 21:53:52 2003
+	- original version; created by h2xs 1.22 with options
+		-XAn Jundy
+
+1.10  Thu Aug  4 21:01:00 2011
+	- removed Exporter
+	- added Taint mode detection
